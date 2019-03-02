@@ -1,6 +1,6 @@
 
 ***********************
-SISTEMA DE CADASTRO SIMPLES
+Exemplos de Sistemas PHP
 *****************************
 voltado para estudo
 *******************
